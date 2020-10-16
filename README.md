@@ -33,5 +33,6 @@ Launch chat server:
 Launch chat client:
 
     python3 client.py
-
+    (to load messages "/load")
 and you're done ;)
+
